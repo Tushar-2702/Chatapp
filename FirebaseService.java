@@ -102,7 +102,7 @@ public class FirebaseService {
         }
 
         try {
-            String apiKey = "AIzaSyBQVX6KR_jjMLtJtm25fFQw297IlX2uymA"; // Secure this in production!
+            String apiKey = ""; // Use your own API key
             URL url = new URL("https://identitytoolkit.googleapis.com/v1/accounts:signInWithPassword?key=" + apiKey);
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             conn.setRequestMethod("POST");
