@@ -69,3 +69,6 @@ All style customizations are handled via `CSS.css`. Includes:
 * Chat bubbles (sent/received)
 * Profile image roundings
 * Status indicators (online/offline)
+
+## ALTERNATIVE 
+You can also unzip the uploaded zip file and get access to complete project
